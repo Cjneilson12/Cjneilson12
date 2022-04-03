@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Discord-blue" alt="Discord Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Youtube-red" alt="Youtube Badge"/>
   </a>
 </div>
 

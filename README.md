@@ -14,5 +14,4 @@
 - 👋 Hello there
 - I am a fivem developer.
 - Founder of AfterLife RP https://disord.afterliferp.co.uk
-- And Founder of Gloria RP https://discord.gg/xh2d6JTbhP 
 - Join my development server https://discord.gg/ebeaFD3BVJ

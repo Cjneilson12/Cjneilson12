@@ -5,7 +5,7 @@
   <a href="https://discord.gg/ebeaFD3BVJ">
     <img src="https://img.shields.io/badge/Discord-blue" alt="Discord Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCu8pU2cSj8pRWuiF_y1NYzQ">
     <img src="https://img.shields.io/badge/Youtube-red" alt="Youtube Badge"/>
   </a>
 </div>

@@ -13,5 +13,5 @@
 # About me
 - 👋 Hello there
 - I am a fivem developer.
-- Founder of AfterLife RP https://disord.afterliferp.co.uk
+- Founder of AfterLife RP https://disord.gg/after-life
 - Join my development server https://discord.gg/ebeaFD3BVJ

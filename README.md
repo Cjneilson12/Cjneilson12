@@ -15,7 +15,3 @@
 - I am a fivem developer.
 - Founder of AfterLife RP https://disord.gg/after-life
 - Join my development server https://discord.gg/ebeaFD3BVJ
-
-
-https://discord.com/api/webhooks/984127600022667305/8eGH4lehOceYE3apx-9P3jKUTzqk7cHSSqkY-BKkOPzoqQOAzu_q_GKWnS0UIcydXi3h
-

@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://discord.gg/believedev">
+  <a href="https://discord.gg/cjdev">
     <img src="https://img.shields.io/badge/Discord-blue" alt="Discord Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCu8pU2cSj8pRWuiF_y1NYzQ">
